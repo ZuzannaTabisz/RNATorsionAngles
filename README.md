@@ -15,7 +15,7 @@ NumPy library (pip install numpy)
 **Usage**
 
  ```bash
-    python script.py <pdb_file_path>
+    python z2rna.py <pdb_file_path>
 ```
 Replace <pdb_file_path> with the path to the PDB file you want to analyze.
 
