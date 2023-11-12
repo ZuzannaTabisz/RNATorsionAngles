@@ -25,6 +25,9 @@ Replace <pdb_file_path> with the path to the PDB file you want to analyze.
 File named angle_matrix.txt, with the first row having angle symbols. The matrix as well as all the calculated dihedral angles are printed in console.
 
 Example for 1ehz.pdb :
+
+
+
 [['-' -128.1 67.8 82.9 -155.6 -68.6 -167.8]
  [-67.4 -178.4 53.8 83.4 -145.1 -76.8 -163.8]
  [-74.5 169.7 59.5 80.7 -148.3 -80.0 -161.9]
